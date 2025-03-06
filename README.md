@@ -1,2 +1,2 @@
 # modelosDeAplicacion
-Equipo: Karla Patricia Mojica Espejel y Pamela Bibiano Chapuli
+Equipo: Manuel Antonio García Huerta
